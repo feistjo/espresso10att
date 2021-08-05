@@ -16,10 +16,10 @@
 # limitations under the License.
 
 VENDOR=samsung
-COMMON=espresso-common
+COMMON=espresso10att
 COMMONOUTDIR=vendor/$VENDOR/$COMMON
 COMMONBASE=../../../$COMMONOUTDIR/proprietary
-COMMONMAKEFILE=../../../$COMMONOUTDIR/common-vendor-blobs.mk
+COMMONMAKEFILE=../../../$COMMONOUTDIR/espresso10att-vendor-blobs.mk
 COMMONPROPS=../$COMMON/proprietary-files.txt
 
 mkdir -p ../../../vendor/$VENDOR/$COMMON/proprietary
