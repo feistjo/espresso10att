@@ -21,7 +21,7 @@ $(call inherit-product-if-exists, frameworks/base/data/sounds/AudioPackage13.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
 # Inherit device specific configuration
-$(call inherit-product, device/samsung/espresso10att/espresso10att/device.mk)
+$(call inherit-product, device/samsung/espresso10att/device.mk)
 
 PRODUCT_NAME := aosp_espresso10att
 PRODUCT_DEVICE := espresso10att
