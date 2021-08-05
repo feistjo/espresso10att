@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_espresso10att.mk
+     $(LOCAL_DIR)/lineage_espresso10att.mk

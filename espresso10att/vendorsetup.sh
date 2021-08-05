@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_espresso10att-userdebug
-add_lunch_combo omni_espresso10att-eng
+add_lunch_combo lineage_espresso10att-userdebug
+add_lunch_combo lineage_espresso10att-eng
